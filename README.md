@@ -1,18 +1,18 @@
-# sanal_mahalle
+## Fitness
 
-Flutter egitim projesi: sanal mahalle uygulamasi.
+Flutter eğitim projesi: Fitness uygulaması.
 
-## Ozellikler
-1. Sanal mahalle ortaminda sosyal etkilesim
-2. Flutter ile cok platform destegi
-3. Modern ve kullanici dostu arayuz
+## Özellikler
+1. Fitness ortamında sosyal etkileşim
+2. Flutter ile çok platform desteği
+3. Modern ve kullanıcı dostu arayüz
 
 ## Kurulum
 1. flutter pub get
 
-## Calistirma
+## Çalıştırma
 1. flutter run
 
-## Ekran Goruntuleri
-- Gorselleri bu klasore ekleyin: assets/screenshots/
-- README icinde ornek kullanim: ![Ana Ekran](assets/screenshots/ana-ekran.png)
+## Ekran Görüntüleri
+- Görselleri bu klasöre ekleyin: assets/screenshots/
+- README içinde örnek kullanım: ![Ana Ekran](assets/screenshots/ana-ekran.png)
