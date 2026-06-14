@@ -49,7 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       backgroundColor: AppTheme.bgBottom,
       appBar: AppBar(
-        title: const Text('🏘️ Sanal Mahalle'),
+        title: const Text('🏋️ Fitness'),
         backgroundColor: AppTheme.appBar,
         centerTitle: true,
         actions: [
@@ -95,8 +95,8 @@ class _HomeScreenState extends State<HomeScreen> {
                       const SizedBox(height: 16),
                       Text(
                         hasAvatar
-                            ? 'Mahallene Hoş Geldin!'
-                            : 'Mahallene Hoş Geldin!',
+                                ? "Fitness'e Hoş Geldin!"
+                                  : "Fitness'e Hoş Geldin!",
                         style: const TextStyle(
                           fontSize: 28,
                           fontWeight: FontWeight.bold,

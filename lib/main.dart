@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (context) => GameProvider(),
       child: MaterialApp(
-        title: 'Sanal Mahalle',
+        title: 'Fitness',
         debugShowCheckedModeBanner: false,
         theme: AppTheme.buildTheme(),
         home: const HomeScreen(),
